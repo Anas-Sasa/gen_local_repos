@@ -1,0 +1,1 @@
+print("Anas Sasa is profissional")
